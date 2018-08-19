@@ -1,0 +1,7 @@
+//___FILEHEADER___
+
+#import "___FILEBASENAME___.h"
+
+@implementation ___FILEBASENAMEASIDENTIFIER___ (___FILEBASENAMEASIDENTIFIER___)
+
+@end
