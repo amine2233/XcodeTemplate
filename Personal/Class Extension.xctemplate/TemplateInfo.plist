@@ -34,9 +34,13 @@
 			<key>Name</key>
 			<string>Subclass of:</string>
 			<key>Description</key>
-			<string>What class to extend in tse new file</string>
+			<string>What class to extend in the new file</string>
 			<key>Type</key>
 			<string>class</string>
+			<key>Default</key>
+			<string>ClassExtension</string>
+			<key>FallbackHeader</key>
+			<string>import UIKit</string>
 			<key>Values</key>
 			<array>
 				<string>ClassExtension</string>
@@ -80,6 +84,6 @@
 				</array>
 			</dict>
 		</dict>
-  </array>
+	</array>
 </dict>
 </plist>
