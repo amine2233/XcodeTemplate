@@ -7,6 +7,6 @@
 
 import Foundation
 
-protocol ___FILEBASENAMEASIDENTIFIER___Protocol {
-    // Add you own protocol function for a ___FILEBASENAMEASIDENTIFIER___Protocol.
+class ___FILEBASENAMEASIDENTIFIER___: ___FILEBASENAMEASIDENTIFIER___Protocol {
+    
 }

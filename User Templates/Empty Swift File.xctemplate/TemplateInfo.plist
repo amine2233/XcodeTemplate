@@ -16,7 +16,68 @@
 	</array>
 	<key>DefaultCompletionName</key>
 	<string>File</string>
-	<key>MainTemplateFile</key>
-	<string>___FILEBASENAME___.swift</string>
+	<key>Options</key>
+	<array>
+		<dict>
+			<key>Identifier</key>
+			<string>productName</string>
+			<key>Required</key>
+			<true/>
+			<key>Name</key>
+			<string>File:</string>
+			<key>Description</key>
+			<string>The name of the file to create</string>
+			<key>Type</key>
+			<string>text</string>
+			<key>NotPersisted</key>
+			<true/>
+		</dict>
+		<dict>
+			<key>Identifier</key>
+			<string>fileType</string>
+			<key>Required</key>
+			<true/>
+			<key>Name</key>
+			<string>File Type:</string>
+			<key>Description</key>
+			<string>What kind of Objective-C source to create</string>
+			<key>Type</key>
+			<string>popup</string>
+			<key>Default</key>
+			<string>Empty File</string>
+			<key>Values</key>
+			<array>
+				<string>Empty File</string>
+				<string>Empty Class</string>
+				<string>Empty Protocol</string>
+				<string>Class Protocol</string>
+				<string>Class</string>
+				<string>Struct</string>
+				<string>Extension</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Identifier</key>
+			<string>extendedClass</string>
+			<key>Name</key>
+			<string>Class:</string>
+			<key>Description</key>
+			<string>Which class to add a category or extension to</string>
+			<key>Default</key>
+			<string>NSObject</string>
+			<key>RequiredOptions</key>
+			<dict>
+				<key>fileType</key>
+				<array>
+					<string>Class</string>
+					<string>Extension</string>
+				</array>
+			</dict>
+			<key>Required</key>
+			<true/>
+			<key>Type</key>
+			<string>class</string>
+		</dict>
+	</array>
 </dict>
 </plist>
