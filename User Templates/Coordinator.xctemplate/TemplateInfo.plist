@@ -5,9 +5,9 @@
 	<key>Kind</key>
 	<string>Xcode.IDEFoundation.TextSubstitutionFileTemplateKind</string>
 	<key>Description</key>
-	<string>An empty Swift file.</string>
+	<string>An empty Coordinator Swift file.</string>
 	<key>Summary</key>
-	<string>An empty Swift file</string>
+	<string>An empty Coordinator Swift file</string>
 	<key>SortOrder</key>
 	<string>30</string>
 	<key>AllowedTypes</key>
@@ -47,14 +47,8 @@
 			<string>Empty File</string>
 			<key>Values</key>
 			<array>
-				<string>Empty File</string>
-				<string>Empty Class</string>
-				<string>Empty Protocol</string>
-				<string>Class Protocol</string>
 				<string>Class</string>
-				<string>Struct</string>
-				<string>Extension</string>
-				<string>Model</string>
+				<string>Window</string>
 			</array>
 		</dict>
 		<dict>
@@ -71,7 +65,6 @@
 				<key>fileType</key>
 				<array>
 					<string>Class</string>
-					<string>Extension</string>
 				</array>
 			</dict>
 			<key>Required</key>
