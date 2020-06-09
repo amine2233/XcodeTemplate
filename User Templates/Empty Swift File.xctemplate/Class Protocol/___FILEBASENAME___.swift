@@ -7,6 +7,10 @@
 
 import Foundation
 
-class ___FILEBASENAMEASIDENTIFIER___: ___FILEBASENAMEASIDENTIFIER___Protocol {
+protocol ___FILEBASENAMEASIDENTIFIER___Type {
+
+}
+
+class ___FILEBASENAMEASIDENTIFIER___: ___FILEBASENAMEASIDENTIFIER___Type {
     
 }

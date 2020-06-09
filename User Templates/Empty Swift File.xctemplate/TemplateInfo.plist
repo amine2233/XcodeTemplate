@@ -55,6 +55,7 @@
 				<string>Struct</string>
 				<string>Extension</string>
 				<string>Model</string>
+				<string>Enum</string>
 			</array>
 		</dict>
 		<dict>

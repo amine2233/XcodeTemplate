@@ -7,6 +7,6 @@
 
 import Foundation
 
-enum ___FILEBASENAMEASIDENTIFIER___ {
+struct ___FILEBASENAMEASIDENTIFIER___ {
     
 }
