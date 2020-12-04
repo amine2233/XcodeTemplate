@@ -1,7 +1,7 @@
 // ___FILENAME___
 // ___PROJECTNAME___
 //
-// Created by ___FULLUSERNAME___ on ___DATE___.
+// Created by ___ORGANIZATIONNAME___.
 // ___COPYRIGHT___
 //
 
