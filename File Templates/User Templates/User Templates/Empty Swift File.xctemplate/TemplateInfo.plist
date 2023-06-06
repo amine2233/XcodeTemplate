@@ -47,16 +47,17 @@
 			<string>Empty File</string>
 			<key>Values</key>
 			<array>
-				<string>Empty File</string>
-				<string>Empty Class</string>
-				<string>Empty Protocol</string>
 				<string>Class Protocol</string>
 				<string>Class</string>
-				<string>Struct</string>
-				<string>Extension</string>
-				<string>Model</string>
 				<string>Codable</string>
+				<string>Empty Class</string>
+				<string>Empty File</string>
+				<string>Empty Protocol</string>
 				<string>Enum</string>
+				<string>Factory</string>
+				<string>Extension</string>
+				<string>Struct</string>
+				<string>Model</string>
 			</array>
 		</dict>
 		<dict>
