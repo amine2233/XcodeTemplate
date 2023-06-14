@@ -50,6 +50,8 @@
 				<string>Empty File</string>
 				<string>Empty Class</string>
 				<string>Empty Protocol</string>
+				<string>Error</string>
+				<string>LocalizedError</string>
 				<string>Class Protocol</string>
 				<string>Class</string>
 				<string>Struct</string>

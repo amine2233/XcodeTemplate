@@ -53,6 +53,8 @@
 				<string>Empty Class</string>
 				<string>Empty File</string>
 				<string>Empty Protocol</string>
+				<string>Error</string>
+				<string>LocalizedError</string>
 				<string>Enum</string>
 				<string>Factory</string>
 				<string>Extension</string>
